@@ -1,0 +1,26 @@
+.profile-image {
+    width: 250px;
+    height: 300px;
+    border-radius: 40%;
+    box-shadow: black 2px 5px 5px;
+}
+
+.site-header {
+    background-color: rgba(5, 5, 5, 0.726);
+    color: white;
+    font-family: monospace;
+    margin: 10px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.site-header-content {
+    margin: 10px;
+}
+
+.body {
+    margin: 10px;
+}
